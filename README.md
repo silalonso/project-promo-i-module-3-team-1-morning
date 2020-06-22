@@ -9,7 +9,7 @@
 
 We chose that name because it's a good mix between "**Components**" and "**React**".
 
-![Compuestas y Reactivas](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/_src/images/Team.jpg "The most Compound and Reactive women!")
+![Compuestas y Reactivas](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/src/images/Team.jpg "The most Compound and Reactive women!")
 
 
 ## Purpose of the project
@@ -23,7 +23,7 @@ This way we developed our ability to adapt to existing projects.
 - Improve public communication skills by **exposing the project** in the final session.
 
 
-![Landing page](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/_src/images/landing.jpg "Here starts everything!")
+![Landing page](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/src/images/landing.jpg "Here starts everything!")
 
 
 ##  How we did it
@@ -55,9 +55,9 @@ Here are some of them:
 
 ##  :file_folder:  Project structure
 
-![Main](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/_src/images/main.jpg "Customize your own card!!")
+![Main](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/src/images/main.jpg "Customize your own card!!")
 
-These are the components we used:
+
 
 ```
     /
@@ -100,16 +100,16 @@ These are the components we used:
 ```
 
 
-The **design** section has 3 color palletes to choose. ![Design section](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/_src/images/design.jpg "Color palettes")<br />
+The **design** section has 3 color palletes to choose. ![Design section](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/src/images/design.jpg "Color palettes")<br />
 The user completes the **fill in** section in order to see the data real-time filling in the card.<br />
-Chose an image from your gallery, or **make it at the moment with your mobile**!
-When all the data is filled in, you press the **share** button. ![Share](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/_src/images/share.jpg "Just click it!")<br />
+Chose an image from your gallery, or **take it at the moment with your mobile**!
+When all the data is filled in, you press the **share** button. ![Share](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/src/images/share.jpg "Just click it!")<br />
 An url will be generated, and you awesome card is ready to share in social media!!  Great, isn't it?
 
 
 ###  :mag_right: Curiosities
-- We decided to keep **Doña Rogelia** as default image for the presentations. ![Doña Rogelia](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/_src/images/image-rogelia.jpg "Our lovely default image")
-- Bea found a great spinner to show while you wait for the link to be created. ![Spinner](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/_src/images/loader.gif "What a cool spinner!")
+- We decided to keep **Doña Rogelia** as default image for the presentations. ![Doña Rogelia](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/src/images/image-rogelia.jpg "Our lovely default image")
+- Bea found a great spinner to show while you wait for the link to be created. ![Spinner](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/src/images/loader.gif "What a cool spinner!")
 
 
 ## :wrench: To run this project
@@ -140,5 +140,5 @@ You will also see any lint errors in the console.<br />
 
 ### :iphone: Design it!
 ## :busts_in_silhouette: Share it!
-# :sparkling_heart: Enjoy it!
+# :sparkling_heart: Enjoy it!   :tada:
 
