@@ -82,7 +82,7 @@ Here are some of them:
    |                        |- Fill.js
    |                        |- Share.js
    |                            |- ShareCard.js
-   |               |- footer
+   |               |- footer.js
    |
    |   |- images
    |   |- services
@@ -100,16 +100,20 @@ Here are some of them:
 ```
 
 
-The **design** section has 3 color palletes to choose. ![Design section](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/src/images/design.jpg "Color palettes")<br />
+The **design** section has 3 color palletes to choose.<br />
+![Design section](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/src/images/design.jpg "Color palettes")<br />
 The user completes the **fill in** section in order to see the data real-time filling in the card.<br />
 Chose an image from your gallery, or **take it at the moment with your mobile**!
-When all the data is filled in, you press the **share** button. ![Share](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/src/images/share.jpg "Just click it!")<br />
+When all the data is filled in, you press the **create card** button. <br />
+![Share](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/src/images/create.jpg "Just click it!")<br />
 An url will be generated, and you awesome card is ready to share in social media!!  Great, isn't it?
 
 
 ###  :mag_right: Curiosities
-- We decided to keep **Doña Rogelia** as default image for the presentations. ![Doña Rogelia](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/src/images/image-rogelia.jpg "Our lovely default image")
-- Bea found a great spinner to show while you wait for the link to be created. ![Spinner](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/src/images/loader.gif "What a cool spinner!")
+- We decided to keep **Doña Rogelia** as default image for the presentations.<br />
+ ![Doña Rogelia](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/src/images/image-rogelia.jpg "Our lovely default image")
+- Bea found a great spinner to show while you wait for the link to be created. <br />
+![Spinner](https://raw.githubusercontent.com/silalonso/project-promo-i-module-3-team-1-morning/master/src/images/loader.gif "What a cool spinner!")
 
 
 ## :wrench: To run this project
@@ -137,8 +141,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.<br />
 
-
-### :iphone: Design it!
-## :busts_in_silhouette: Share it!
-# :sparkling_heart: Enjoy it!   :tada:
+<h3 align="center"> 
+:iphone: Design it!
+</h3>
+<h2 align="center"> 
+:busts_in_silhouette: Share it!
+</h2>
+<h1 align="center"> 
+:sparkling_heart: Enjoy it!   :tada:
+</h1>
 
